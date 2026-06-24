@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xzzj&label=Profile views&color=0e75b6&style=flat" alt="0xzzj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xzzj" alt="0xzzj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.vercel.app/?username=0xzzj&theme=flat&no-frame=true&margin-w=15" alt="0xzzj" /></a> </p>
 
-- 🔭 I'm currently working on ** Computer Architecture, Digital IC, FPGA, SoC.**
+- 🔭 I'm currently working on **Computer Architecture, Digital IC, FPGA, SoC.**
 
 - 🌱 I'm currently learning **high performance RISC-V processor cache subsystem**
 
@@ -22,5 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xzzj&show_icons=true&locale=en" alt="0xzzj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xzzj&" alt="0xzzj" /></p>
-
+<p><img align="center" src="https://streak-stats.demolab.com/?user=0xzzj" alt="0xzzj" /></p>
